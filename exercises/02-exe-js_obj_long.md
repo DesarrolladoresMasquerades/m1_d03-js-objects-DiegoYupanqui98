@@ -57,7 +57,7 @@ Create the library array.
 Add the user object into the library array.
 
 ###Iteration 5
-Let’s pick up a new book from the library. That means we will have to add a new book inside the `user.books` array. But now, the user is inside the library object. So you have to access the library, then the user and, finally, the books array to add the new book.
+Let’s pick up a new book from the library. That means we will have to add a new book inside the `user.books` array. But now, the user is inside the library object. So you have to access the library, then the user and, finally, the books array to add the new book. 
 
 ```javascript
 const book3 = {};
